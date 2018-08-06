@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/leeeboo/wechat/wx"
+	"github.com/Datang6777/gowechat"
 	"log"
 	"net/http"
 	"time"
